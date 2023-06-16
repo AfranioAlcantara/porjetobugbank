@@ -36,12 +36,3 @@ describe('testes na tela de cadastro',()=>{
 
 });
 });
-/*describe('', () => {
-    
-});
-beforeEach(() => {
-    
-});
-it('', () => {
-    
-});*/
